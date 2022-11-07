@@ -21,6 +21,10 @@ int listaVacia(){
         return 0;
 }
 
+void yithab(){
+    printf("HOla yithab");
+}
+
 int longitudLista(){
     int longi=0;
     if(listaVacia()!=1){
